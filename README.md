@@ -1,3 +1,3 @@
 # discrete-optimisation
 discrete optimisation projects
-- planning-optimisation -- Discrete optimisation algorithm, together with a Gradio interface, to generate the schedule planning of team under soft and hard constraints
+- planning-optimisation -- Discrete optimization algorithm using CP-SAT with a Gradio interface for team schedule planning under hard and soft constraints
